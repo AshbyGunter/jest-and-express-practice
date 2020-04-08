@@ -1,0 +1,19 @@
+{
+  "name": "testing_away",
+  "version": "1.0.0",
+  "description": "some_basics",
+  "main": "app.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.2.7",
+    "nodemon": "^2.0.2"
+  }
+}
